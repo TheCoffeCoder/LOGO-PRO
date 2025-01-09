@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Tutorial Link 
+https://www.youtube.com/watch?v=ivgnlHSm_aQ&t=5397s
+
+![alt text](<Your paragraph text(2).png>)
+
+
 ## Getting Started
 
 First, run the development server:
